@@ -50,7 +50,7 @@ class Iconvertical extends StatelessWidget {
                   children: [
                     Icon(Icons.shopping_cart, size: 40, color: const Color(0xFFa3978b)),
                     SizedBox(height: 8),
-                    Text('Catálogo', style: TextStyle(fontSize: 16, color: const Color(0xFF444344), fontWeight: FontWeight.bold)),
+                    Text('Carrito', style: TextStyle(fontSize: 16, color: const Color(0xFF444344), fontWeight: FontWeight.bold)),
                   ],
                 ),
               ),
@@ -70,7 +70,7 @@ class Iconvertical extends StatelessWidget {
                   children: [
                     Icon(Icons.info_outline, size: 40, color: const Color(0xFFb57f66)),
                     SizedBox(height: 8),
-                    Text('Catálogo', style: TextStyle(fontSize: 16, color: const Color(0xFF786e65), fontWeight: FontWeight.bold)),
+                    Text('Nosotros', style: TextStyle(fontSize: 16, color: const Color(0xFF786e65), fontWeight: FontWeight.bold)),
                   ],
                 ),
               ),
